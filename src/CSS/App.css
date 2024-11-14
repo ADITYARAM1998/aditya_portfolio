@@ -1,0 +1,40 @@
+/* Container for layout */
+.app-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 10px; /* Reduced gap for tighter layout */
+  padding: 20px;
+  max-width: 1200px;
+  margin: auto;
+}
+
+/* Skillset Sidebar adjustments */
+.skillset-sidebar {
+  width: 200px; /* Make it narrower */
+  max-height: 500px; /* Limit height */
+  overflow-y: auto; /* Allow scrolling if content overflows */
+  margin-top: 20px; /* Space it a bit from top header */
+}
+
+/* Profile section */
+.profile-container {
+  flex: 1; /* Take up remaining space */
+  margin: 0;
+  padding: 20px;
+  background-color: #00473e;
+  border-radius: 10px;
+  color: #f5f5f5;
+}
+
+/* Experience, Projects, Teaching sections */
+.experience-container,
+.projects-container,
+.teaching-container {
+  margin-top: 20px; /* Reduced top margin for tighter layout */
+}
+
+.main-content {
+  flex: 1;
+  max-width: calc(100% - 270px);
+}

@@ -1,0 +1,38 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px; /* Increase if necessary */
+    padding-bottom: 10px; /* You can adjust this as well */
+    box-sizing: border-box;
+    background-color: #003a31;
+    color: #f5f5f5;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    
+  }
+  
+  .header h1 {
+    margin: 0;
+    padding: 10px 0; /* Adjust this padding as needed */
+    overflow: visible;
+    font-size: 2.5rem; /* Ensure font size isn't too large */
+    line-height: 1.2;
+}
+
+  
+  .header nav a {
+    margin: 0 15px;
+    color: #cccccc;
+    text-decoration: none;
+    font-size: 1rem;
+  }
+  
+  .header nav a:hover,
+  .header nav a.active {
+    color: #20c997;
+    font-weight: bold;
+  }
+  
