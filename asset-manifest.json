@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/aditya_portfolio/static/css/main.126f1d4e.css",
-    "main.js": "/aditya_portfolio/static/js/main.fd03def8.js",
+    "main.css": "/aditya_portfolio/static/css/main.2758837f.css",
+    "main.js": "/aditya_portfolio/static/js/main.0a256d6c.js",
     "static/media/fa-solid-900.ttf": "/aditya_portfolio/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/fa-brands-400.ttf": "/aditya_portfolio/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
     "static/media/fa-solid-900.woff2": "/aditya_portfolio/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
@@ -12,11 +12,11 @@
     "static/media/fa-v4compatibility.ttf": "/aditya_portfolio/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
     "static/media/fa-v4compatibility.woff2": "/aditya_portfolio/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/aditya_portfolio/index.html",
-    "main.126f1d4e.css.map": "/aditya_portfolio/static/css/main.126f1d4e.css.map",
-    "main.fd03def8.js.map": "/aditya_portfolio/static/js/main.fd03def8.js.map"
+    "main.2758837f.css.map": "/aditya_portfolio/static/css/main.2758837f.css.map",
+    "main.0a256d6c.js.map": "/aditya_portfolio/static/js/main.0a256d6c.js.map"
   },
   "entrypoints": [
-    "static/css/main.126f1d4e.css",
-    "static/js/main.fd03def8.js"
+    "static/css/main.2758837f.css",
+    "static/js/main.0a256d6c.js"
   ]
 }
